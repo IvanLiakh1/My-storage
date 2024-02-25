@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "409317397649",
+    "project_id": "my-storage-c99f0",
+    "storage_bucket": "my-storage-c99f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409317397649:android:de8157d46fce900f4d5b30",
+        "android_client_info": {
+          "package_name": "com.example.mystorage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDFbYQ--rpDkWwXF9wNO1QaK8CBdcw4yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
